@@ -1,0 +1,15 @@
+$kind: http-request
+url: http://localhost:3000/api/lapangan/6acfa65c1dafafcf7edc75a7
+method: PUT
+body:
+  type: json
+  content: "{\r
+
+    \  \"nama_lapangan\": \"naga\",\r
+
+    \  \"jenis_olahraga\": \"futsal\",\r
+
+    \  \"harga_per_jam\": 4000\r
+
+    }"
+order: 4000
