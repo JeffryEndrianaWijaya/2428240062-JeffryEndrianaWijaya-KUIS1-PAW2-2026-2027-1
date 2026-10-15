@@ -1,4 +1,0 @@
-$kind: http-request
-url: http://localhost:3000/api/lapangan/6acfa65c1dafafcf7edc75a7
-method: GET
-order: 3000
